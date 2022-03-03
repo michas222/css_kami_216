@@ -1,0 +1,51 @@
+.mk2{
+	color:green;
+	
+}
+ 
+.mk{
+	color:#5F9EA0;
+}
+
+.mk3{
+	color:#5F9EA0;
+	
+}
+.mk4{
+	font-size: 30px;
+}
+.mk5{
+	font-size: 18px;
+	
+}
+
+table{
+	border-top-color: black;
+	border-right-color: black;
+	border-bottom-color black;
+	border-left-color: black;
+	border-collapse: collapse;
+}
+	
+	.nowe_mozliwosci{
+		Font-weight: bold;
+		font-size: 26px;	
+	}
+	
+	.spis{
+		
+		font-size: 16px;	
+	}
+	
+.wady_css{
+	font-size: 26px;	
+}
+
+.wady_css2{
+	font-size: 16px;
+}
+
+textarea {
+		
+}
+
